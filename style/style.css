@@ -10,6 +10,8 @@ body {
 
 .search-bar input {
     width: 75%;
+    background-color: #131313;
+    border: 1px solid #202020;
 }
 
 .video-item img {
@@ -19,14 +21,16 @@ body {
 .video-detail .details {
     margin-top: 10px;
     padding: 10px;
-    border: 1px solid #ddd;
+    border: 1px solid #202020;
     border-radius: 4px;
 }
 
 .list-group-item {
     cursor: pointer;
+    background-color: #131313;
+    border: 1px solid #202020;
 }
 
 .list-group-item:hover {
-    background-color: #eee;
+    background-color: #202020;
 }
