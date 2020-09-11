@@ -1,5 +1,5 @@
 # Reactube
-
+Youtube clone made with React
 ### Screenshot 
 
 ![screenshot](https://i.imgur.com/slomS1k.png)
